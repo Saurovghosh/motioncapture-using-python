@@ -1,0 +1,15 @@
+C:\Users\saurov ghosh\Desktop\motioncap\bin\Debug\net7.0\motioncap.exe
+C:\Users\saurov ghosh\Desktop\motioncap\bin\Debug\net7.0\motioncap.deps.json
+C:\Users\saurov ghosh\Desktop\motioncap\bin\Debug\net7.0\motioncap.runtimeconfig.json
+C:\Users\saurov ghosh\Desktop\motioncap\bin\Debug\net7.0\motioncap.dll
+C:\Users\saurov ghosh\Desktop\motioncap\bin\Debug\net7.0\motioncap.pdb
+C:\Users\saurov ghosh\Desktop\motioncap\obj\Debug\net7.0\motioncap.csproj.AssemblyReference.cache
+C:\Users\saurov ghosh\Desktop\motioncap\obj\Debug\net7.0\motioncap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurov ghosh\Desktop\motioncap\obj\Debug\net7.0\motioncap.AssemblyInfoInputs.cache
+C:\Users\saurov ghosh\Desktop\motioncap\obj\Debug\net7.0\motioncap.AssemblyInfo.cs
+C:\Users\saurov ghosh\Desktop\motioncap\obj\Debug\net7.0\motioncap.csproj.CoreCompileInputs.cache
+C:\Users\saurov ghosh\Desktop\motioncap\obj\Debug\net7.0\motioncap.dll
+C:\Users\saurov ghosh\Desktop\motioncap\obj\Debug\net7.0\refint\motioncap.dll
+C:\Users\saurov ghosh\Desktop\motioncap\obj\Debug\net7.0\motioncap.pdb
+C:\Users\saurov ghosh\Desktop\motioncap\obj\Debug\net7.0\motioncap.genruntimeconfig.cache
+C:\Users\saurov ghosh\Desktop\motioncap\obj\Debug\net7.0\ref\motioncap.dll
